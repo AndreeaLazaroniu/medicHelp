@@ -7,9 +7,6 @@ __pycache__/
 
 database.db
 
-data/
-models/
-
 *.log
 .DS_Store
 Thumbs.db
